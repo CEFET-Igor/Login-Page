@@ -2,8 +2,9 @@
 
 Este é um projeto de uma página de login simples e objetiva criada usando HTML e CSS básico.
 
-![Login-Page(V1)3](https://github.com/CEFET-Igor/Login-Page/assets/113212275/6a4dfe77-4ec6-41c9-9def-c12c5aaba6d5)
-![Login-Page(V1)4](https://github.com/CEFET-Igor/Login-Page/assets/113212275/c3ae0e46-a203-44b7-957c-9c8815b184cb)
+![Login-Page1](https://github.com/CEFET-Igor/Login-Page/assets/113212275/71e197df-bf6a-4583-8c35-ff6abd127196)
+![Login-Page2](https://github.com/CEFET-Igor/Login-Page/assets/113212275/723cb43e-9167-4af3-95a7-208691c32c1b)
+
 
 ## Funcionalidades
 
