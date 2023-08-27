@@ -4,15 +4,23 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interative imput</title>
+    <title>Login</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="image/favicon1.png" type="image/x-icon">
 </head>
 <body>
-    <div class="content" id="content">
-        <input type="text" required>
-        <div class="underline"></div>
-        <label>username</label>
-    </div>
-    
+    <main class="content">
+        <div class="name relative">
+            <input type="text" id="username" autocomplete="cc-name" required>
+            <div class="underline"></div>
+            <label for="username">username</label>
+        </div>
+        <div class="password relative">
+            <input type="password" id="password" autocomplete="new-password" required>
+            <div class="underline"></div>
+            <label for="password">password</label>
+        </div>
+        <button type="button" class="Login">Entrar</button>
+    </main> 
 </body>
 </html>
